@@ -34,6 +34,8 @@ Author
 --------------------
 Annon B.W.Yang
 China University of Geoscience (Beijing)
+Liu Dianhewen
+Tsinghua University
 
 Version & Model Bound
 ---------------------
