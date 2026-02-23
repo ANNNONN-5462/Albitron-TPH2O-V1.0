@@ -1,7 +1,7 @@
 # Albitron-PTH2O 🌋
 **A Machine Learning-Based Geothermobarometer with a User-Friendly GUI**
 
-Welcome to the official repository for **Albitron-PTH2O**. This software provides a robust, machine learning-driven approach for petrologists and volcanologists to accurately estimate crystallization pressure (P), temperature (T), and melt water content (H2O) from mineral-melt equilibrium data. 
+Welcome to the official repository for **Albitron-PTH2O**. This software provides a robust, machine learning-driven approach for petrologists and volcanologists to accurately estimate crystallization pressure (P), temperature (T), and melt water content (H2O) from mineral-liquid equilibrium data. 
 
 While traditional empirical models often struggle with complex, non-linear geological datasets, Albitron-PTH2O leverages advanced machine learning algorithms to improve predictive accuracy across various volcanic systems.
 
