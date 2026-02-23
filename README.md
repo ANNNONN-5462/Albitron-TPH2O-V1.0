@@ -25,10 +25,7 @@ If you just want to use the tool without setting up a Python environment, you ca
 
 ### Option 2: Running from Python Source (For Developers)
 If you want to run the code directly or modify the model:
-1. Clone this repository:
-   ```bash
-   git clone [https://github.com/YourUsername/Albitron-PTH2O.git](https://github.com/YourUsername/Albitron-PTH2O.git)
-   cd Albitron-PTH2O
+Coming soon
 
 
 
